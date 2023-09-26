@@ -21,7 +21,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="common" options="" />
       <module name="common-util" options="-parameters" />
-      <module name="guihu-oa-parent" options="-parameters" />
+      <module name="guihu-oa-parent" options="" />
       <module name="model" options="-parameters" />
       <module name="module" options="-parameters" />
       <module name="service-oa" options="-parameters" />
